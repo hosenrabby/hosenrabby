@@ -60,8 +60,8 @@ I’m Hosen Rabby, a passionate Full Stack Web Developer who loves building mode
 
 ## :chart_with_upwards_trend: Current Github Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hosenrabby&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hosenrabby&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=hosenrabby&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hosenrabby&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
 </div>
 <br/>
 <div align="center">
