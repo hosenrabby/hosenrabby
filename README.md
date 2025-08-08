@@ -1,5 +1,6 @@
 
-[![Header](https://raw.githubusercontent.com/hosenrabby/hosenrabby/assets/hosenRabbyGithubBGcrop.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/hosenrabby/hosenrabby/main/assets/hosenRabbyGithubBGcrop.png "Header")](https://hosenrabby.dev/)
+
 <h1 align="center">Hi 👋, I'm Hosen Rabby</h1>
 <h3 align="center">🚀 A passionate frontend developer & problem solver</h3>
 
