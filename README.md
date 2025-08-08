@@ -23,16 +23,22 @@ I’m Hosen Rabby, a passionate Full Stack Web Developer who loves building mode
 ⚡ I’m constantly learning and experimenting with new tools, frameworks, and best practices to level up my skills and deliver high-quality solutions.
 
 🌱 Current focus : Expanding my backend knowledge and exploring cloud deployment solutions.
-📫 Reach me at :  
-
-<p align="left">
+</br></br>
+📫 Reach me out :  
+<div align="left">
 <a href="https://linkedin.com/in/hosenrabby" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/hosenrabby/hosenrabby/main/assets/Linkedin.png" width="40" height="40"/>
 </a>
-<a href="mailto:hosen@example.com">
-  <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://wa.me/8801864259966" target="_blank">
+  <img src="https://raw.githubusercontent.com/hosenrabby/hosenrabby/main/assets/whatsapp.png" width="40" height="40"/>
 </a>
-</p>
+<a href="https://www.twuitter.com/tahmid.tuhin.3" target="_blank">
+  <img src="https://raw.githubusercontent.com/hosenrabby/hosenrabby/main/assets/Twitter.png" width="40" height="40"/>
+</a>
+<a href="https://www.facebook.com/tahmid.tuhin.3" target="_blank">
+  <img src="https://raw.githubusercontent.com/hosenrabby/hosenrabby/main/assets/Facebook.png" width="40" height="40"/>
+</a>
+</div>
 
 
 ## 🛠 Technologies That I Work With
@@ -62,13 +68,13 @@ I’m Hosen Rabby, a passionate Full Stack Web Developer who loves building mode
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosenrabby&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
-### 🌟 Featured Projects:
-- [🚀 My Awesome Project](https://github.com/hosenrabby/project1) — Short description here  
-- [📦 Another Cool Project](https://github.com/hosenrabby/project2) — Short description here  
-
-### ✍️ Random Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
+<h2 align="center">🤝 Support</h2>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
+<p align="center">Made with ❤️ in Bangladesh</p>
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."*
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/hosenrabby/hosenrabby/main/assets/Bottom.svg" alt="Botom svg"/>
+</p>
