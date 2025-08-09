@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/hosenrabby/hosenrabby/main/assets/hosenRabbyGithubBGcrop.png "Header")](https://hosenrabby.dev/)
+[![Header](https://raw.githubusercontent.com/hosenrabby/hosenrabby/main/assets/hosenRabbyGithubBGmain.png "Header")](https://hosenrabby.dev/)
 
 <div align="center">
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D1D6DF&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hosen+Rabby;As+a+Web+Developer;A+problem+Solver;Welcome%2C+Nice+to+meet+you+!!" alt="Typing SVG" /></a>
