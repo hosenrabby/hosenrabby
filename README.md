@@ -4,13 +4,13 @@
 <div align="center">
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D1D6DF&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hosen+Rabby;As+a+Web+Developer;A+problem+Solver;Welcome%2C+Nice+to+meet+you+!!" alt="Typing SVG" /></a>
 </div>
-<h3 align="center">🚀 A Passionate Web Developer & problem solver</h3>
+<h3 align="center">🚀 A Passionate MERN Stack Web Developer & problem solver</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hosenrabby&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ## 💫 About Me
-I’m Hosen Rabby, a passionate Full Stack Web Developer who loves building modern, scalable, and user-friendly web applications. I enjoy crafting seamless digital experiences from concept to deployment, working with both frontend and backend technologies.
+I’m Hosen Rabby, a passionate MERN Stack Web Developer who loves building modern, scalable, and user-friendly web applications. I enjoy crafting seamless digital experiences from concept to deployment, working with both frontend and backend technologies.
 
 💻 My main tech stack:
 
