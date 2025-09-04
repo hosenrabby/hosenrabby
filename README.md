@@ -29,7 +29,7 @@ I’m Hosen Rabby, a passionate MERN Stack Web Developer who loves building mode
 <a href="https://linkedin.com/in/hosenrabby" target="_blank">
   <img src="https://raw.githubusercontent.com/hosenrabby/hosenrabby/main/assets/Linkedin.png" width="40" height="40"/>
 </a>
-<a href="https://wa.me/8801864259966" target="_blank">
+<a href="https://wa.me/+8801864259966" target="_blank">
   <img src="https://raw.githubusercontent.com/hosenrabby/hosenrabby/main/assets/whatsapp.png" width="40" height="40"/>
 </a>
 <a href="https://www.twuitter.com/tahmid.tuhin.3" target="_blank">
